@@ -1,0 +1,13 @@
+name: iris_exploration
+title: iris_exploration
+username:
+account: ericknav
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5213518
+bundleId: 5299318
+url: https://ericknav.shinyapps.io/iris_exploration/
+when: 1638023420.55401
+lastSyncTime: 1638023420.55402
+asMultiple: FALSE
+asStatic: FALSE
